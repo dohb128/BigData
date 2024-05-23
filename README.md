@@ -27,6 +27,3 @@ MVP 후보로 선정된 16명의 선수의 이름과 'KBO MVP'를 키워드로 �
 ![image](https://github.com/dohb128/BigData/assets/116796285/c8b73a6a-f14e-4dc4-ba65-ebb058d0f6ad)
 
 
-### 결과 발표
-
-(결과 ppt 링크)
